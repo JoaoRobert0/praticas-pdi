@@ -1,1 +1,1 @@
-# praticas-pdi
+# processamento-digital-de-imagens
