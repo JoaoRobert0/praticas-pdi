@@ -1,0 +1,13 @@
+clearvars;
+close all;
+
+im_background = imread('background_2.jpg');
+im_object = imread('object_2.jpg');
+im_mask = imread('mask_1.jpg');
+
+mask_1_mask.bmp
+
+im = im_background + im_object*2;
+
+figure('name', 'resultado')
+imshow(im)
